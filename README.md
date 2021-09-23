@@ -1,5 +1,5 @@
 # Project 
-Project of the selection process for front-end developer.
+Project to front-end developer.
 It consists of creating an employee form by consuming a public API (https://crudcrud.com).
 
 ## Required
